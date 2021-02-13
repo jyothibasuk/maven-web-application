@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Liquor Store</title>
+    <title>Madhu Liquor Store</title>
 </head>
 <body>
 <center>
